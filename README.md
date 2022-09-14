@@ -1,3 +1,5 @@
+**NOTE**: This is a temporary fork to fix build with unix >=2.8. It will go away once upstream follows.
+
 Efficient, versatile logging tools for Haskell.
 
 fast-logger
