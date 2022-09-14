@@ -1,4 +1,4 @@
-{-# LANGUAGE Safe #-}
+{-# LANGUAGE Trustworthy #-}
 
 module System.Log.FastLogger.File
     ( FileLogSpec(..)
